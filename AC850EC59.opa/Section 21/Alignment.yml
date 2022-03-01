@@ -1,0 +1,23 @@
+segment_sources:
+  P73BBA0F5:
+    type: origin_type
+    relation: translation
+    language: bo
+  PFB7A737A:
+    type: origin_type
+    relation: translation
+    language: zh
+  P9F02F87F:
+    type: origin_type
+    relation: translation
+    language: zh
+  P705A4FCF:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  2cc8439b48ed42238b4746cf8d3ef9f4:
+    P73BBA0F5: bfa43ea32fd640a5a803ee02226a9e6c
+    PFB7A737A: b1d2e786534746cda37a02fde3598088
+    P9F02F87F: e2192a93fa044602b0300409cfb642e4
+    P705A4FCF: 9fa6b6fd430a40738c3bc66b7063db8a
